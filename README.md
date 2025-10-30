@@ -65,7 +65,8 @@ node db/seed.js
 ### 4. Run the Development Server
 
 ```bash
-npm run dev
+'npm run dev' - for frontend
+'npm run server:dev'  -  for backend
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
