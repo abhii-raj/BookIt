@@ -5,8 +5,8 @@ A Next.js application for browsing and booking adventure experiences.
 
 -  Browse adventure experiences
 -  Search functionality
-- 📅 Booking system
-- 💾 MongoDB database integration
+-  Booking system
+-  MongoDB database integration
 
 ## Database Schema
 
